@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Logger.w("%s %s", "logger", "第一个");
+        Logger.w("%s %s", "logger", "第一个123");
 //        Logger.e("MMBB");
 //
 //
