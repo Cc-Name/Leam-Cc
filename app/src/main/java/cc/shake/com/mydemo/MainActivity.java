@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 //        Logger.w(map.toString());
 
 
-//        //创建一个观察
+//        //创建一个观察11111111
 //        Observable<Integer> observable = Observable.create(new ObservableOnSubscribe<Integer>() {
 //            @Override
 //            public void subscribe(ObservableEmitter<Integer> observableEmitter) throws Exception {
